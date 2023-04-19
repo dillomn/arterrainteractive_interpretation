@@ -10,8 +10,9 @@
   
   /* Logo image */
   .NavBar img {
-    height: 50px;
-    width: auto;
+    height: auto;
+    width: 250px;
+    padding: 0.5%;
   }
   
   /* Navigation links */
@@ -26,7 +27,7 @@
   
   /* Individual navigation link */
   .NavBar li {
-    margin: 0 10px;
+    margin: 0 15px;
   }
   
   /* Link styling */
@@ -34,7 +35,7 @@
     text-decoration: none;
     color: #fff;
     font-weight: bold;
-    font-size: 18px;
+    font-size: x-large;
     transition: color 0.2s ease-in-out;
   }
   
@@ -43,3 +44,7 @@
     color: #00bcd4;
   }
   
+  .logo {
+    float: right;
+  }
+

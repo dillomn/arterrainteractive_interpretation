@@ -1,4 +1,29 @@
 .typewriter {
-    text-align: center;
-    vertical-align: middle;
+    position: absolute;
+    top: 20%;
+    left: 40%;
+    font-size: 150%;
+    color: ghostwhite;
 }
+
+.image-container {
+    position: relative;
+}
+
+.image {
+    width: 100%;
+    height: auto;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+  
+.list-item {
+    margin-bottom: -35px;
+}
+  
+  
+  
