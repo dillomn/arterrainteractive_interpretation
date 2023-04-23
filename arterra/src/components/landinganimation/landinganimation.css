@@ -1,0 +1,32 @@
+.image-container {
+    width: 100%;
+    height: auto;
+    z-index: 10;
+    top: 0%;
+    position: fixed;
+}
+
+.typewriter {
+    position: absolute;
+    top: 30%;
+    color: ghostwhite;
+    left: 30%;
+}
+
+.bgvideo {
+    width: 100%;
+    height: auto;
+    filter: brightness(50%)
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+  
+.list-item {
+    margin-bottom: -35px;
+    font-size: xx-large;
+}
+  

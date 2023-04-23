@@ -1,13 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
+import LandingAnimation from './components/landinganimation/landinganimation';
+import NavBar from './components/navbar/navbar'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <NavBar />
+    <LandingAnimation />
   </React.StrictMode>
 );
 
