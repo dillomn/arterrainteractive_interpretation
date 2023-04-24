@@ -5,6 +5,8 @@ import reportWebVitals from './reportWebVitals';
 import LandingAnimation from './components/landinganimation/landinganimation';
 import NavBar from './components/navbar/navbar'
 import Info from './components/landinginfo/info'
+import Footer from './components/footer/footer'
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -12,6 +14,7 @@ root.render(
     <NavBar />
     <LandingAnimation />
     <Info />
+    <Footer />
   </React.StrictMode>
 );
 
