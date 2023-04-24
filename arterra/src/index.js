@@ -4,12 +4,14 @@ import './index.css';
 import reportWebVitals from './reportWebVitals';
 import LandingAnimation from './components/landinganimation/landinganimation';
 import NavBar from './components/navbar/navbar'
+import Info from './components/landinginfo/info'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <NavBar />
     <LandingAnimation />
+    <Info />
   </React.StrictMode>
 );
 
