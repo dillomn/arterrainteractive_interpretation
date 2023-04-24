@@ -13,7 +13,9 @@ function Info() {
             <p className="description">Arterra Interactive has had the opportunity to work with some of Australia’s (if not the world’s) most imaginative, progressive and capable architects, planners, property developers, creative agencies and government departments on projects ranging from static imagery through to animation / interactive media and applications.</p>
             <img src={Clients} alt="Our Clients" className="ClientImage" />
         </div>
-
+        <div className="Quotes">
+        
+        </div>
     </div>
     );
     }
