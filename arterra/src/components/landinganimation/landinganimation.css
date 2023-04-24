@@ -9,10 +9,11 @@
 
 .typewriter {
     position: absolute;
-    top: 30%;
+    top: 40%;
     color: ghostwhite;
-    left: 30%;
-}
+    left: 50%;
+    transform: translateX(-50%);
+  }
 
 .bgvideo {
     width: 100%;
