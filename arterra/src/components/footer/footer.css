@@ -1,0 +1,14 @@
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #24272A;
+    color: ghostwhite;
+    padding: 10px;
+    position: sticky;
+    top: 0;
+    z-index: 150;
+  }
+.nav-link {
+    color: #F4EB60;
+}
