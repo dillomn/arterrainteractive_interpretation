@@ -18,8 +18,15 @@
 .bgvideo {
     width: 100%;
     height: auto;
-    filter: brightness(50%)
+    filter: brightness(50%);
+    transition: filter 1s ease-in-out;
 }
+
+  
+  .bgvideo.scrolled {
+    filter: brightness(50%) blur(3px);
+  }
+  
 
 ul {
     list-style: none;
