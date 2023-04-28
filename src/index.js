@@ -2,20 +2,21 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
-import LandingAnimation from './components/landinganimation/landinganimation';
-import NavBar from './components/navbar/navbar'
-import Info from './components/landinginfo/info'
-import Footer from './components/footer/footer'
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
+import Layout from './pages/layout';
+import Home from './pages/home';
+import Projects from './pages/projects';
+import About from './pages/about';
+import Contact from './pages/contact';
+import NoPage from './pages/nopage';
+
+import App from './App';
+
+const root = ReactDOM.createRoot(document.getElementById('root')); 
 root.render(
-  <React.StrictMode>
-    <NavBar />
-    <LandingAnimation />
-    <Info />
-    <Footer />
-  </React.StrictMode>
+ <App />
 );
 
 // If you want to start measuring performance in your app, pass a function
