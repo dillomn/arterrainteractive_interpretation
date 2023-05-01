@@ -6,11 +6,11 @@
     height: 80vh;
     background-color: ghostwhite;
     text-align: center;
+    width: 100%;
   }
   
   .coming-soon h1 {
     font-size: 4rem;
-    margin-bottom: 20px;
   }
   
   .coming-soon p {
