@@ -5,7 +5,9 @@ import ComingSoon from '../comingsoon/comingsoon';
 function Selection() {
   return (
     <div className='select'>
-      <ul className="select-nav">
+      <table className='selection-input'>
+        <td>
+        <ul className="select-nav">
         <li className="select-item">
         <button>Government</button>
         </li>
@@ -18,8 +20,19 @@ function Selection() {
         <li className="select-item">
         <button>Future Cities</button>
         </li>
+        <li className="select-item">
+        <button>Parkland</button>
+        </li>
+        <li className="select-item">
+        <button>Architecture</button>
+        </li>
+
       </ul>
-    <ComingSoon />
+        </td>
+        <td className='selection-output'>
+          <ComingSoon />
+        </td>
+      </table>
     </div>
   );
 }
