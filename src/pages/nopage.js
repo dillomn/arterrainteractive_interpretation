@@ -1,13 +1,8 @@
-import LandingAnimation from '../components/landinganimation/landinganimation';
-import NavBar from '../components/navbar/navbar'
-import Info from '../components/landinginfo/info'
-import Footer from '../components/footer/footer'
+import Page404 from "../components/404/404";
 
 function NoPage() {
     return (
-    <div>
-      COMING SOON
-    </div>
+      <Page404 />
     );
   }
 
