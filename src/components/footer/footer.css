@@ -1,11 +1,10 @@
 .footer-container {
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: left;
     background-color: #24272A;
     color: ghostwhite;
     padding: 10px;
-    position: sticky;
     top: 0;
     z-index: 150;
   }
@@ -15,13 +14,14 @@
     padding: 0.5rem;
 }
 
-
 .nav-link-footer:hover {
   color: #F4EB60;
   font-size: x-large;
   padding: 0.5rem;
 }
 
-
+p {
+  font-weight: 500;
+}
 
 
