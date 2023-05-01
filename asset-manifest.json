@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/arterrainteractive_interpretation/static/css/main.05d532a2.css",
-    "main.js": "/arterrainteractive_interpretation/static/js/main.ac0f1e26.js",
+    "main.css": "/arterrainteractive_interpretation/static/css/main.68fbb12a.css",
+    "main.js": "/arterrainteractive_interpretation/static/js/main.27ffe696.js",
     "static/js/787.4395435f.chunk.js": "/arterrainteractive_interpretation/static/js/787.4395435f.chunk.js",
     "static/media/bg.mp4": "/arterrainteractive_interpretation/static/media/bg.7f735352e6c8fcb734c4.mp4",
     "static/media/Clients.jpg": "/arterrainteractive_interpretation/static/media/Clients.b8a0856a40be0a649603.jpg",
     "static/media/logo.png": "/arterrainteractive_interpretation/static/media/logo.9333f8eadbb70091afa7.png",
+    "static/media/logo.svg": "/arterrainteractive_interpretation/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/arterrainteractive_interpretation/index.html",
-    "main.05d532a2.css.map": "/arterrainteractive_interpretation/static/css/main.05d532a2.css.map",
-    "main.ac0f1e26.js.map": "/arterrainteractive_interpretation/static/js/main.ac0f1e26.js.map",
+    "main.68fbb12a.css.map": "/arterrainteractive_interpretation/static/css/main.68fbb12a.css.map",
+    "main.27ffe696.js.map": "/arterrainteractive_interpretation/static/js/main.27ffe696.js.map",
     "787.4395435f.chunk.js.map": "/arterrainteractive_interpretation/static/js/787.4395435f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.05d532a2.css",
-    "static/js/main.ac0f1e26.js"
+    "static/css/main.68fbb12a.css",
+    "static/js/main.27ffe696.js"
   ]
 }
