@@ -1,16 +1,24 @@
+body {
+  background-color: #24272A;
+}
+  
+table {
+  vertical-align: top;
+  width: 100%;
+}
+
+.select{
+  width: 100%;
+  display: flex;
+}
+
 /* Navigation links */
 .select ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    display: flex;
     justify-content: center;
     align-items: center;
-  }
-  
-  /* Individual navigation link */
-  .select li {
-    margin: 0 15px;
   }
   
   /* Button styles */
@@ -31,6 +39,10 @@
     color: #F3EA60;
   }
 
-body {
-    background-color: #24272A;
-}
+  .selection-output {
+    background-color: ghostwhite;
+    width: 100%;
+  }
+
+
+
