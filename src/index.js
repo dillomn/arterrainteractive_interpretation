@@ -2,15 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
-import { BrowserRouter, Routes, Route } from "react-router-dom";
-
-
-import Layout from './pages/layout';
-import Home from './pages/home';
-import Projects from './pages/projects';
-import About from './pages/about';
-import Contact from './pages/contact';
-import NoPage from './pages/nopage';
 
 import App from './App';
 
