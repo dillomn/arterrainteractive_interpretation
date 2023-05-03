@@ -1,18 +1,21 @@
 {
   "files": {
-    "main.css": "/arterrainteractive_interpretation/static/css/main.4eefd1f4.css",
-    "main.js": "/arterrainteractive_interpretation/static/js/main.826a0b45.js",
+    "main.css": "/arterrainteractive_interpretation/static/css/main.92680105.css",
+    "main.js": "/arterrainteractive_interpretation/static/js/main.6c4e270a.js",
     "static/js/787.4395435f.chunk.js": "/arterrainteractive_interpretation/static/js/787.4395435f.chunk.js",
     "static/media/bg.mp4": "/arterrainteractive_interpretation/static/media/bg.7f735352e6c8fcb734c4.mp4",
+    "static/media/future_sydney.mp4": "/arterrainteractive_interpretation/static/media/future_sydney.337d743fc78cb2c81f0d.mp4",
+    "static/media/hornsby_park.mp4": "/arterrainteractive_interpretation/static/media/hornsby_park.9dbdd659b9929d193eec.mp4",
+    "static/media/moore_point.mp4": "/arterrainteractive_interpretation/static/media/moore_point.ac6b3df8e592e798b09a.mp4",
     "static/media/Clients.jpg": "/arterrainteractive_interpretation/static/media/Clients.b8a0856a40be0a649603.jpg",
     "static/media/logo.png": "/arterrainteractive_interpretation/static/media/logo.9333f8eadbb70091afa7.png",
     "index.html": "/arterrainteractive_interpretation/index.html",
-    "main.4eefd1f4.css.map": "/arterrainteractive_interpretation/static/css/main.4eefd1f4.css.map",
-    "main.826a0b45.js.map": "/arterrainteractive_interpretation/static/js/main.826a0b45.js.map",
+    "main.92680105.css.map": "/arterrainteractive_interpretation/static/css/main.92680105.css.map",
+    "main.6c4e270a.js.map": "/arterrainteractive_interpretation/static/js/main.6c4e270a.js.map",
     "787.4395435f.chunk.js.map": "/arterrainteractive_interpretation/static/js/787.4395435f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4eefd1f4.css",
-    "static/js/main.826a0b45.js"
+    "static/css/main.92680105.css",
+    "static/js/main.6c4e270a.js"
   ]
 }
