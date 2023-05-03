@@ -1,8 +1,8 @@
-import Selection from '../components/selection/selection'
+import Media from '../components/media/media'
 
 function Projects() {
     return (
-      <Selection />
+      <Media />
     );
   }
 
