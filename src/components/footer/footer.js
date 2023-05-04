@@ -23,7 +23,7 @@ function Footer() {
             </a>
 
       </ul>
-      <p>© 2023 Arterra Interactive.</p>
+      <p className="copywrite">© 2023 Arterra Interactive.</p>
     </div>
   );
 }
