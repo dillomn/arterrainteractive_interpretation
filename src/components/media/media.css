@@ -1,13 +1,19 @@
 body {
     background-color: #24272A;
   }
-
-table {
+  
+  table {
     margin: 0 auto;
- }
+  }
+  
+  td {
+    text-align: center;
+    vertical-align: middle;
 
- /* Info component styling */
-.Intro {
+  }
+  
+  /* Info component styling */
+  .Intro {
     flex-direction: column;
     align-items: center;
     justify-content: center;
@@ -16,9 +22,9 @@ table {
     text-align: center;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
     z-index: 100;
-    }
-
-.media{
+  }
+  
+  .media {
     display: flex;
     color: black;
     background-color: ghostwhite;
@@ -26,9 +32,9 @@ table {
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
     z-index: 100;
     text-align: right;
-}
-
-.media-table-1{
+  }
+  
+  .media-table-1 {
     display: flex;
     color: #24272A;
     flex-direction: row;
@@ -37,11 +43,13 @@ table {
     background-color: ghostwhite;
     text-align: center;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-    padding: 5rem;
+    padding: 1rem;
     z-index: 100;
-}
-
-.media-table-2{
+    display: table;
+    margin: 0 auto;
+  }
+  
+  .media-table-2 {
     display: flex;
     color: ghostwhite;
     flex-direction: row;
@@ -49,25 +57,54 @@ table {
     justify-content: center;
     background-color: #24272A;
     text-align: center;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
     padding: 5rem;
     z-index: 100;
-}
-
-.tabel-item {
-    padding: 10px;
+    display: table;
+  }
+  
+  .tabel-item-vid {
+    padding: 0;
+    width: 50%;
     text-align: center;
   }
   
-h1{
-    font-size: xx-large;
+  .tabel-item-txt {
+    width: 50%;
+    text-align: center;
+    padding: 5px 0;
 }
-
-  h1, h3{
+  
+  h1 {
+    font-size: 250%;
+    text-align: center;
     margin: 0;
     padding: 5px;
   }
   
-  .video{
-    border-radius: 10px;
+  h3 {
+    font-size: 150%;
+    text-align: center;
+    margin: 0;
+    padding: 5px;
   }
+  
+  .video {
+    border-radius: 10px;
+    width: 100%;
+    height: auto;
+  }
+  
+  .desc {
+    margin: 0;
+    font-size: 100%;
+  }
+  
+.tabel-item-vid h1,
+.tabel-item-vid h3,
+.tabel-item-vid p,
+.tabel-item-txt h1,
+.tabel-item-txt h3,
+.tabel-item-txt p {
+  text-align: center;
+  margin: 0;
+}
