@@ -29,7 +29,7 @@ function LandingAnimation() {
         <div className="typewriter">
           <ul>
             <li className="list-item">
-              <h1>
+              <h1 className='typewriter-h1'>
                 <Typewriter
                   options={{
                     strings: words,

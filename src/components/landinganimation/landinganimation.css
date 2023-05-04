@@ -36,5 +36,8 @@ ul {
   
 .list-item {
     margin-bottom: -35px;
-    font-size: xx-large;
+}
+
+.typewriter-h1 {
+  font-size: 3rem;
 }
