@@ -19,7 +19,7 @@
   /* Logo image */
   .NavBar img {
     height: auto;
-    width: 250px;
+    width: 15vw;
     padding: 0.5%;
   }
   
@@ -35,7 +35,7 @@
   
   /* Individual navigation link */
   .NavBar li {
-    margin: 0 15px;
+    margin: 0 1vw;
   }
   
   /* Link styling */
@@ -43,7 +43,7 @@
     text-decoration: none;
     color: #fff;
     font-weight: bold;
-    font-size: 1.75rem;
+    font-size: 2vw;
     transition: color 0.2s ease-in-out;
   }
   
@@ -52,6 +52,6 @@
     color: #F3EA60;
   }
   
-  .logo {
+  .logo image{
     float: right;
   }

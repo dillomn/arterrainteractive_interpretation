@@ -10,18 +10,17 @@
   }
 .nav-link-footer {
     color: ghostwhite;
-    font-size: x-large;
-    padding: 0.5rem;
+    font-size: 2vw;
+    padding: 0.5vw;
 }
 
 .nav-link-footer:hover {
   color: #F4EB60;
-  font-size: x-large;
-  padding: 0.5rem;
 }
 
 .copywrite {
   font-weight: 500;
+  font-size: 1vw;
 }
 
 

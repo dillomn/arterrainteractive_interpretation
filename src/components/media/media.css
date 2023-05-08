@@ -22,6 +22,7 @@ body {
     text-align: center;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
     z-index: 100;
+    font-size: 1.5vw;
   }
   
   .media {
@@ -47,6 +48,7 @@ body {
     z-index: 100;
     display: table;
     margin: 0 auto;
+    font-size: 1.25vw;
   }
   
   .media-table-2 {
@@ -60,6 +62,7 @@ body {
     padding: 5rem;
     z-index: 100;
     display: table;
+    font-size: 1.25vw;
   }
   
   .tabel-item-vid {
@@ -97,6 +100,7 @@ body {
   .desc {
     margin: 0;
     font-size: 100%;
+    width: 100%;
   }
   
 .tabel-item-vid h1,

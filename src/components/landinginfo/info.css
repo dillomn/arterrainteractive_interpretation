@@ -13,13 +13,13 @@
     }
     
     .title {
-    font-size: 2.5rem;
+    font-size: 3.5vw;
     font-weight: bold;
     margin-bottom: 20px;
     }
     
     .description {
-    font-size: 1.2rem;
+    font-size: 1.5vw;
     line-height: 1.5;
     }
 /* Clients component styling */
@@ -34,6 +34,7 @@
     text-align: center;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
     z-index: 100;
+    font-size: 1.5vw;
     }
 .ClientImage {
     width: 60%;
@@ -51,12 +52,14 @@
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
     padding: 5rem;
     z-index: 100;
+    font-size: 1.25vw;
     }
 
 .quotator{
     text-align: right;
     font-weight: 800;
     padding: 1rem;
+    font-size: 1.25vw;
 }
 
 .table-row{
