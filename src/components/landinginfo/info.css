@@ -13,14 +13,14 @@
     }
     
     .title {
-    font-size: 3.5vw;
+    font-size: 3vw;
     font-weight: bold;
     margin-bottom: 20px;
     }
     
     .description {
-    font-size: 1.5vw;
-    line-height: 1.5;
+    font-size: 1.3vw;
+        line-height: 1.5;
     }
 /* Clients component styling */
 .Clients {

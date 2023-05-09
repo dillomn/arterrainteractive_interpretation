@@ -35,7 +35,7 @@
   
   /* Individual navigation link */
   .NavBar li {
-    margin: 0 1vw;
+    margin: 0 0.75vw;
   }
   
   /* Link styling */
@@ -43,7 +43,7 @@
     text-decoration: none;
     color: #fff;
     font-weight: bold;
-    font-size: 2vw;
+    font-size: 1.75vw;
     transition: color 0.2s ease-in-out;
   }
   
