@@ -59,16 +59,18 @@ body {
     justify-content: center;
     background-color: #24272A;
     text-align: center;
-    padding: 5rem;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    padding: 1rem;
     z-index: 100;
     display: table;
+    margin: 0 auto;
     font-size: 1.25vw;
   }
   
   .tabel-item-vid {
-    padding: 0;
     width: 50%;
     text-align: center;
+    padding: 1.5vw;
   }
   
   .tabel-item-txt {
