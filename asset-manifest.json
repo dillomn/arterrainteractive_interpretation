@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/arterrainteractive_interpretation/static/css/main.68fbb12a.css",
-    "main.js": "/arterrainteractive_interpretation/static/js/main.cb1451c7.js",
+    "main.css": "/arterrainteractive_interpretation/static/css/main.4735fe2b.css",
+    "main.js": "/arterrainteractive_interpretation/static/js/main.b9b342fa.js",
     "static/js/787.4395435f.chunk.js": "/arterrainteractive_interpretation/static/js/787.4395435f.chunk.js",
     "static/media/bg.mp4": "/arterrainteractive_interpretation/static/media/bg.7f735352e6c8fcb734c4.mp4",
+    "static/media/future_sydney.mp4": "/arterrainteractive_interpretation/static/media/future_sydney.337d743fc78cb2c81f0d.mp4",
+    "static/media/hornsby_park.mp4": "/arterrainteractive_interpretation/static/media/hornsby_park.9dbdd659b9929d193eec.mp4",
+    "static/media/moore_point.mp4": "/arterrainteractive_interpretation/static/media/moore_point.ac6b3df8e592e798b09a.mp4",
     "static/media/Clients.jpg": "/arterrainteractive_interpretation/static/media/Clients.b8a0856a40be0a649603.jpg",
     "static/media/logo.png": "/arterrainteractive_interpretation/static/media/logo.9333f8eadbb70091afa7.png",
-    "static/media/logo.svg": "/arterrainteractive_interpretation/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/arterrainteractive_interpretation/index.html",
-    "main.68fbb12a.css.map": "/arterrainteractive_interpretation/static/css/main.68fbb12a.css.map",
-    "main.cb1451c7.js.map": "/arterrainteractive_interpretation/static/js/main.cb1451c7.js.map",
+    "main.4735fe2b.css.map": "/arterrainteractive_interpretation/static/css/main.4735fe2b.css.map",
+    "main.b9b342fa.js.map": "/arterrainteractive_interpretation/static/js/main.b9b342fa.js.map",
     "787.4395435f.chunk.js.map": "/arterrainteractive_interpretation/static/js/787.4395435f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.68fbb12a.css",
-    "static/js/main.cb1451c7.js"
+    "static/css/main.4735fe2b.css",
+    "static/js/main.b9b342fa.js"
   ]
 }
